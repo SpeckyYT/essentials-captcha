@@ -21,3 +21,11 @@ async function getCaptcha(){
     console.log(captcha.solution);
 }
 ```
+
+## Informations
+
+[Original Essentials API Repository](https://github.com/Ammar-sys/essentials_api)
+
+[API Website](https://ammarsysdev.pythonanywhere.com/)
+
+[Discord Server](https://discord.gg/Fh5gmXQ)
