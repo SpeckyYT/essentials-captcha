@@ -1,0 +1,28 @@
+{
+  "name": "essentials-captcha",
+  "version": "0.0.1",
+  "description": "Unofficial Essentials Captcha wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SpeckyYT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SpeckyYT/essentials-captcha.git"
+  },
+  "keywords": [
+    "essentials",
+    "captcha",
+    "api"
+  ],
+  "typings": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/SpeckyYT/essentials-captcha/issues"
+  },
+  "homepage": "https://github.com/SpeckyYT/essentials-captcha#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
