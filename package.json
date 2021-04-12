@@ -1,6 +1,6 @@
 {
   "name": "essentials-captcha",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Unofficial Essentials Captcha wrapper",
   "main": "index.js",
   "scripts": {
